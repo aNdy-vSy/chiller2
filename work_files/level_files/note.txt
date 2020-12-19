@@ -1,0 +1,5 @@
+These files were created using a level
+editor coded especially for this game.
+
+The editor will be released soon by
+Arkanix Labs.
